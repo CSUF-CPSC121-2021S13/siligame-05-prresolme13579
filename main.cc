@@ -8,5 +8,5 @@ int main() {
   my_game.Init();
   my_game.UpdateScreen();
   my_game.Start();
-  return 0; 
+  return 0;
 }
